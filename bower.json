@@ -1,0 +1,16 @@
+{
+  "name": "GulpProject",
+  "description": "My First Gulp Project",
+  "main": "index.js",
+  "authors": [
+    "WebDesign Master"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/agragregra/gulp-lesson",
+  "private": true,
+  "dependencies": {
+    "fancybox": "^2.1.5",
+    "jquery": "^3.0.0",
+    "slick-carousel": "^1.6.0"
+  }
+}
