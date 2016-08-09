@@ -1,12 +1,10 @@
 {
-  "name": "GulpProject",
-  "description": "My First Gulp Project",
-  "main": "index.js",
-  "authors": [
-    "WebDesign Master"
-  ],
-  "license": "ISC",
-  "homepage": "https://github.com/agragregra/gulp-lesson",
+  "name": "",
+  "description": "",
+  "main": "",
+  "authors": [],
+  "license": "",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "fancybox": "^2.1.5",

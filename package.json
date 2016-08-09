@@ -1,13 +1,13 @@
 {
-  "name": "myproject",
+  "name": "",
   "version": "1.0.0",
-  "description": "My First Gulp Project",
-  "main": "index.js",
+  "description": "",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "WebDesign Master",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "browser-sync": "^2.11.1",
     "del": "^2.2.0",
